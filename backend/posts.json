@@ -1,0 +1,29 @@
+[
+  {
+    "title": "The Midnight Commit",
+    "content": "Location: Pune, India\nCharacter: Arjun Verma, 26, Full Stack Developer\n\nArjun Verma was the kind of developer who didn\u2019t mind late nights \u2014 in fact, he thrived in them. The office was quieter, the internet faster, and the code cleaner when the world slept.\n\nHe worked at a mid-sized fintech startup in Pune, building backend systems for a UPI-based savings app. It wasn\u2019t glamorous work, but it was impactful. Their app was used by over 100,000 people in Tier-2 cities, most of whom were first-time digital savers.\n\nOne Thursday night around 2:30 AM, while sipping his third cup of instant coffee, Arjun discovered a bug. A critical one.\n\nThe app was deducting double the amount from a user\u2019s savings account during recurring auto-transfers \u2014 but only under a rare condition involving daylight savings adjustments (yes, India doesn\u2019t use DST, but the backend servers were hosted in Virginia).\n\nHe froze. He knew that this bug hadn\u2019t yet affected many users \u2014 but tomorrow morning, thousands of transactions would go live at 7:00 AM.\n\nHe had four and a half hours.",
+    "id": 0,
+    "created_at": "2025-06-05 06:07:13",
+    "likes": 0,
+    "comments": [],
+    "image": "/api/uploads/post_0_20250605_060719.jpg"
+  },
+  {
+    "title": "My struggle in machine learning.",
+    "content": "When I first heard of Machine Learning, I imagined robots playing chess, stock predictions, and magical auto-complete. Everyone on LinkedIn was posting about their \"95% accuracy\" models. I wanted in.\n\nBut I had no idea where to begin.\n\nPhase 1: YouTube and Confusion\nI started with free videos. Every other YouTuber was saying something different \u2014 \"Start with Linear Regression,\" \"Don\u2019t touch code yet,\" \"Only do Deep Learning!\"\nI installed Anaconda, tried to run import sklearn, and hit my first error. It took me 3 hours to fix a PATH issue. I felt dumb.\n\nPhase 2: Math Panic\nThen came the real villain: math.\nEigenvalues, gradient descent, backpropagation \u2014 it felt like trying to read Sanskrit. I barely passed my college linear algebra course, and now I had to understand matrix calculus?\n\nI bought books, watched Khan Academy at 2x speed, and still felt lost. Imposter syndrome hit hard.\n\nPhase 3: The First Model\nAfter weeks of chaos, I trained my first model: a decision tree on the Titanic dataset. Accuracy? 79%.\nDid I understand it? Not really. But it worked. For the first time, I felt like a real ML engineer.\n\nPhase 4: Realization\nThen I joined a small internship \u2014 we had to build a model to detect loan fraud. Suddenly, real-world data hit me: missing values, categorical variables, class imbalance \u2014 nothing was as clean as Kaggle. But slowly, painfully, I improved.",
+    "id": 1,
+    "created_at": "2025-06-05 06:08:16",
+    "likes": 0,
+    "comments": [],
+    "image": "/api/uploads/post_1_20250605_060825.jpg"
+  },
+  {
+    "title": "The psychology behind hiding your emotions.",
+    "content": "What Are Emotions?\nEmotions are mental and physiological states that arise in response to internal or external events. They help us react quickly, communicate, and make decisions \u2014 even before we consciously think.\n\n\ud83d\udd0d Three Core Components of Emotion:\nBiological (Physiological Arousal):\n\nYour body responds automatically \u2014 heart races, pupils dilate, muscles tense.\n\nThe brain\u2019s amygdala is a key player here, especially for fear and threat detection.\n\nThe autonomic nervous system triggers \u201cfight, flight, or freeze\u201d responses.\n\nCognitive (Mental Interpretation):\n\nYour thoughts and beliefs shape what emotion you feel.\n\nExample: A racing heart could mean fear if you\u2019re being chased, or excitement if you're on stage.\n\nThis is where appraisal theory comes in \u2014 your brain asks, \u201cIs this situation good or bad for me?\u201d\n\nBehavioral (Expression & Action):\n\nEmotions influence facial expressions, tone of voice, posture, and even your decisions.\n\nWe\u2019ve evolved to express emotions to others \u2014 smiling, crying, frowning \u2014 for social bonding and survival.",
+    "id": 2,
+    "created_at": "2025-06-05 06:09:20",
+    "likes": 0,
+    "comments": [],
+    "image": "/api/uploads/post_2_20250605_060927.jpg"
+  }
+]
